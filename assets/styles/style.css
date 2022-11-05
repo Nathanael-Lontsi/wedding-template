@@ -1,7 +1,7 @@
 * {
   margin: 0;
   padding: 0;
-  font-family: "Poppins", Verdana, Arial, Tahoma, sans-serif;
+  font-family: Poppins, Verdana, Arial, Tahoma, sans-serif;
 }
 
 /* Home */
@@ -38,7 +38,7 @@
 
 /* Jane & John */
 #section {
-  background-color: #ffdddd;
+  background-color: #fdd;
 }
 
 .jane-john h1 {
@@ -162,7 +162,7 @@
   padding: 20px 0;
   opacity: 0.8;
 }
-  
+ 
 a {
   color: #000;
   text-decoration: none;
