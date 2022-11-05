@@ -65,7 +65,7 @@
   color: #000;
 }
 
-.button {
+.button-a {
   max-width: 100px;
   min-height: 50px;
   padding: 10vh;
@@ -167,4 +167,31 @@ a {
   color: #000;
   text-decoration: none;
   padding: 0 120px;
+}
+
+/* RSVP */
+.rsvp {
+  background-color: #fddd;
+  text-align: center;
+  padding: 20vh;
+  line-height: 1.6;
+}
+
+.rsvp h1 {
+  color: #000;
+  font-size: 36px;
+  font-weight: 400;
+}
+
+.rsvp p {
+  color: #000;
+  font-size: 18px;
+  font-weight: 400;
+}
+
+.button-b {
+  background-color: #f44336;
+  padding: 8px 60px;
+  opacity: 0.60;
+  border-radius: 4px;
 }
