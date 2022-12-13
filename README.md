@@ -1,5 +1,5 @@
 # wedding-template project
-Wedding invitations nowadays can be done using simple websites showing clean images of the couple getting married, their wed location and invitation. This is what have been done in this investigation.
+Wedding invitations nowadays can be done using simple sites showing clean images of the couple getting married, their wed location and invitation. This is what have been done in this investigation.
 ## App
 ![flowers](assets/images/flowers.png)
 ### Built with
