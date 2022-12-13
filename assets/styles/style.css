@@ -243,7 +243,7 @@ a {
 }
 
 .btn2 {
-  background-color: #FF3333;
+  background-color: #ff3333;
   border-radius: 4px;
   cursor: pointer;
   display: block;
@@ -290,7 +290,7 @@ footer {
     padding-bottom: 70%;
     line-height: 1.5;
   }
-  
+
   .wed-text p {
     line-height: 0.5;
   }
