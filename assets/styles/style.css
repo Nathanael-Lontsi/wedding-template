@@ -1,5 +1,4 @@
 body {
-
   font-family: Raleway, sans-serif;
   margin: 0;
   padding: 0;
@@ -48,7 +47,7 @@ a {
 
 /* Home */
 .pagecontent {
-  background: #ffdddd;
+  background: #fdd;
   filter: grayscale(50%);
 }
 
@@ -89,7 +88,7 @@ a {
   text-align: center;
   font-size: 36px;
   color: #757575;
-  padding: 50px 0 5px 0;
+  padding: 50px 0 5px;
   font-weight: bold;
 }
 
@@ -160,7 +159,7 @@ a {
 
 /* Wedding */
 .celebration {
-  background: #ffdddd;
+  background: #fdd;
   filter: grayscale(50%);
 }
 
@@ -168,7 +167,7 @@ a {
   font-size: 36px;
   text-align: center;
   color: #757575;
-  padding: 80px 0 40px 0;
+  padding: 80px 0 40px;
   margin-top: -5px;
 }
 
@@ -226,7 +225,7 @@ a {
   text-align: center;
   padding: 50px;
   line-height: 1.5;
-  background-color: #ffdddd;
+  background-color: #fdd;
 }
 
 .rsvp h1 {
@@ -244,7 +243,7 @@ a {
 }
 
 .btn2 {
-  background-color: rgba(244, 67, 54);
+  background-color: #FF3333;
   border-radius: 4px;
   cursor: pointer;
   display: block;
@@ -295,7 +294,7 @@ footer {
   .wed-text p {
     line-height: 0.5;
   }
-  
+
   .wed-couple img {
     margin: auto;
     width: 95vw;
@@ -364,7 +363,7 @@ footer {
   }
 
   .paragraph {
-    padding: 0 5% 3% 5%;
+    padding: 0 5% 3%;
   }
 
   .btn1 {
