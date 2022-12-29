@@ -1,0 +1,170 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Poppins, Verdana, Arial, Tahoma, sans-serif;
+}
+
+/* Home */
+.wedding-couple {
+  background-size: cover;
+  background-position: center;
+  max-width: 100vw;
+}
+
+.wedding-text {
+  position: absolute;
+  color: #fff;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  letter-spacing: 4px;
+  line-height: 1.8;
+}
+
+.wedding-text h1 {
+  font-size: 64px;
+  font-weight: 400;
+  margin: 10px 0;
+}
+
+.wedding-text p {
+  font-size: 30px;
+}
+
+.wedding-text h2 {
+  font-size: 30px;
+}
+
+/* Jane & John */
+#section {
+  background-color: #fdd;
+}
+
+.jane-john h1 {
+  text-align: center;
+  font-size: 36px;
+  color: #757575;
+  padding-top: 10vh;
+  font-weight: 400;
+}
+
+.wedding-couple2 {
+  background-position: center;
+  max-width: 120vw;
+  padding: 10vw;
+  padding-top: 8vh;
+  border-radius: 5px;
+}
+
+.paragraph {
+  text-align: left;
+  line-height: 2;
+  padding: 10vw;
+  margin-top: -30vh;
+  color: #000;
+}
+
+.button {
+  max-width: 100px;
+  min-height: 50px;
+  padding: 10vh;
+  padding-left: 45vw;
+  margin-top: -20vh;
+}
+
+.flowers {
+  max-width: 100vw;
+  min-height: 20vh;
+}
+
+.flowers-title {
+  color: #fff;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  line-height: 2;
+  text-align: center;
+  letter-spacing: 4px;
+  margin-top: -70vh;
+}
+
+.flowers-title h2 {
+  color: #fff;
+  font-size: 64px;
+  margin: 10px 0;
+  font-weight: 400;
+}
+
+.flowers-title h3 {
+  color: #fff;
+  font-size: 30px;
+  margin: 10px 0;
+  font-weight: 400;
+}
+
+/* Wedding */
+.wedding h1 {
+  font-size: 36px;
+  text-align: center;
+  color: #757575;
+  padding-top: 50vh;
+}
+
+.wedding-location {
+  background-position: center;
+  max-width: 100vw;
+  padding: 10vw;
+  padding-top: 10vh;
+  border-radius: 5px;
+}
+
+.period {
+  background-position: left;
+  text-align: center;
+  line-height: 2.5;
+  color: #000;
+  padding-right: 40vw;
+  padding-top: 10vh;
+}
+
+.period h1 {
+  font-size: 30px;
+  font-weight: 400;
+}
+
+.period p {
+  font-size: medium;
+}
+
+.place {
+  background-position: right;
+  text-align: center;
+  line-height: 2.5;
+  color: #000;
+  padding-left: 40vw;
+  margin-top: -25vh;
+}
+
+.place h1 {
+  font-size: 30px;
+  font-weight: 400;
+}
+
+.place p {
+  font-size: medium;
+}
+
+.navbar {
+  background-color: #f8f8ff;
+  text-align: center;
+  padding: 20px 0;
+  opacity: 0.8;
+}
+
+a {
+  color: #000;
+  text-decoration: none;
+  padding: 0 120px;
+}
